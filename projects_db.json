@@ -1,0 +1,974 @@
+﻿[
+    {
+        "id":  1,
+        "folder":  "adds",
+        "name":  "Be Expo New.mp4",
+        "file":  "assets/adds/Be Expo New.mp4",
+        "sizeMB":  136.29,
+        "category":  "ads",
+        "aspect":  "16:9",
+        "client":  "Be Expo",
+        "title_ar":  "برومو المعرض الدولي Be Expo",
+        "title_en":  "Be Expo International Promo",
+        "desc_ar":  "فيديو ترويجي ضخم لمعرض Be Expo يركز على الفخامة والحضور والتغطية السينمائية المتطورة.",
+        "desc_en":  "Grand cinematic exhibition commercial highlighting event magnitude, key moments, and luxury visual tone.",
+        "tags":  [
+                     "Event Promo",
+                     "Cinematic Cut",
+                     "Color Grading",
+                     "Exhibition"
+                 ],
+        "featured":  true
+    },
+    {
+        "id":  2,
+        "folder":  "adds",
+        "name":  "Final 1.mp4",
+        "file":  "assets/adds/Final 1.mp4",
+        "sizeMB":  122.77,
+        "category":  "ads",
+        "aspect":  "16:9",
+        "client":  "Commercial Campaign",
+        "title_ar":  "فيلم إعلاني رئيسي - النسخة المعتمدة",
+        "title_en":  "Master Commercial Brand Film",
+        "desc_ar":  "مونتاج إعلاني متكامل لبراند تجاري مع ضبط التوقيتات والمؤثرات الانتقالية بدقة عالية.",
+        "desc_en":  "Complete commercial cut featuring precise transitions, color correction, and audio mastering.",
+        "tags":  [
+                     "Brand Film",
+                     "Commercial",
+                     "Audio Master"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  3,
+        "folder":  "adds",
+        "name":  "Final Proper (1).mp4",
+        "file":  "assets/adds/Final Proper (1).mp4",
+        "sizeMB":  194.13,
+        "category":  "ads",
+        "aspect":  "16:9",
+        "client":  "Creative Spot",
+        "title_ar":  "سبوت إعلاني سينمائي متكامل",
+        "title_en":  "Cinematic Brand Commercial Spot",
+        "desc_ar":  "مونتاج سينمائي متقدم مع معالجة الألوان وتصميم شريط الصوت والمؤثرات السينمائية.",
+        "desc_en":  "High-tier cinematic spot featuring advanced sound design, subtle VFX, and rich tone curve.",
+        "tags":  [
+                     "Cinematic",
+                     "Color Tone",
+                     "Sound Design"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  4,
+        "folder":  "adds",
+        "name":  "fnal.mp4",
+        "file":  "assets/adds/fnal.mp4",
+        "sizeMB":  166.5,
+        "category":  "ads",
+        "aspect":  "16:9",
+        "client":  "Product Commercial",
+        "title_ar":  "إعلان ترويجي للمنتج - النسخة النهائية",
+        "title_en":  "Dynamic Product Showcase Spot",
+        "desc_ar":  "إبراز مميزات المنتج بزوايا تصوير ديناميكية ومؤثرات انتقال سلسة تعزز قرار الشراء.",
+        "desc_en":  "Showcasing product highlights through dynamic camera moves, micro-cuts, and persuasive flow.",
+        "tags":  [
+                     "Product Ad",
+                     "Dynamic Cut",
+                     "Commercial"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  5,
+        "folder":  "adds",
+        "name":  "GOLDFILL.MP4",
+        "file":  "assets/adds/GOLDFILL.MP4",
+        "sizeMB":  94.17,
+        "category":  "ads",
+        "aspect":  "16:9",
+        "client":  "Goldfill",
+        "title_ar":  "إعلان براند جولد فيل - Goldfill Luxury",
+        "title_en":  "Goldfill Luxury Aesthetic Commercial",
+        "desc_ar":  "إعلان تجاري فاخر لمنتجات التجميل والفيلر مع تلوين دقيق وإبراز ملامح النضارة والجاذبية.",
+        "desc_en":  "Luxury commercial for premier aesthetic filler brand with high-end color grading and elegant pacing.",
+        "tags":  [
+                     "Luxury Brand",
+                     "Aesthetics",
+                     "Color Grading",
+                     "Commercial"
+                 ],
+        "featured":  true
+    },
+    {
+        "id":  6,
+        "folder":  "adds",
+        "name":  "Prefinal.mp4",
+        "file":  "assets/adds/Prefinal.mp4",
+        "sizeMB":  100.39,
+        "category":  "ads",
+        "aspect":  "16:9",
+        "client":  "Promo Campaign",
+        "title_ar":  "برومو إعلاني تسويقي متكامل",
+        "title_en":  "Promotional Brand Campaign Cut",
+        "desc_ar":  "مونتاج تجاري يركز على إيصال الرسالة التسويقية بأسرع وقت وأعلى جاذبية.",
+        "desc_en":  "Commercial cut designed for maximum clarity, visual appeal, and viewer engagement.",
+        "tags":  [
+                     "Promo",
+                     "Storytelling",
+                     "Commercial"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  7,
+        "folder":  "adds",
+        "name":  "R Store - بالعكس أوفر.mp4",
+        "file":  "assets/adds/R Store - بالعكس أوفر.mp4",
+        "sizeMB":  189.84,
+        "category":  "ads",
+        "aspect":  "16:9",
+        "client":  "R Store",
+        "title_ar":  "إعلان آر ستور - حملة \u0027بالعكس أوفر\u0027",
+        "title_en":  "R Store - \u0027Bel Aks Awfar\u0027 Campaign",
+        "desc_ar":  "إعلان إبداعي لحملة التوفير والعروض الخاصة بآر ستور مع ريتم سريع وكوميديا بصرية ومؤثرات صوتية جذابة.",
+        "desc_en":  "Creative commercial for R Store promotional campaign featuring dynamic pacing, sound design, and punchy visual humor.",
+        "tags":  [
+                     "Commercial Ad",
+                     "Sound Design",
+                     "Pacing",
+                     "E-commerce"
+                 ],
+        "featured":  true
+    },
+    {
+        "id":  8,
+        "folder":  "adds",
+        "name":  "RRS - Final First COPY.mp4",
+        "file":  "assets/adds/RRS - Final First COPY.mp4",
+        "sizeMB":  97.11,
+        "category":  "ads",
+        "aspect":  "16:9",
+        "client":  "RRS Skin",
+        "title_ar":  "إعلان RRS - النسخة الإعلانية الأولى",
+        "title_en":  "RRS Aesthetic Brand Ad - Cut 01",
+        "desc_ar":  "إعلان تسويقي لمنتجات RRS المتخصصة في نضارة البشرة مع مونتاج سريع وتأثيرات بصرية طبية أنيقة.",
+        "desc_en":  "Promotional commercial for RRS skincare treatments blending medical credibility with sleek aesthetic editing.",
+        "tags":  [
+                     "Medical Aesthetics",
+                     "Motion Design",
+                     "Sound Design"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  9,
+        "folder":  "adds",
+        "name":  "RRS - Final Second COPY.mp4",
+        "file":  "assets/adds/RRS - Final Second COPY.mp4",
+        "sizeMB":  108.55,
+        "category":  "ads",
+        "aspect":  "16:9",
+        "client":  "RRS Skin",
+        "title_ar":  "إعلان RRS - النسخة الإعلانية الثانية",
+        "title_en":  "RRS Aesthetic Brand Ad - Cut 02",
+        "desc_ar":  "نسخة إعلانية بديلة تركز على سرعة النتائج والتأثير المباشر مع هوك بصري قوي في البداية.",
+        "desc_en":  "Alternative high-hook cut focusing on rapid clinical results and captivating visual storytelling.",
+        "tags":  [
+                     "Alternative Cut",
+                     "Hook Optimization",
+                     "Color Grading"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  10,
+        "folder":  "adds",
+        "name":  "عروض R-stor.mp4",
+        "file":  "assets/adds/عروض R-stor.mp4",
+        "sizeMB":  82.44,
+        "category":  "ads",
+        "aspect":  "16:9",
+        "client":  "R Store",
+        "title_ar":  "إعلان عروض آر ستور الكبرى",
+        "title_en":  "R Store - Mega Offers Commercial",
+        "desc_ar":  "سبوت إعلاني مركز يبرز العروض الحصرية مع نصوص متحركة سريعة وإيقاع موسيقي حماسي.",
+        "desc_en":  "High-energy commercial spotlighting exclusive discounts with kinetic typography and rhythmic beats.",
+        "tags":  [
+                     "Promo Ad",
+                     "Kinetic Typography",
+                     "Sound Sync",
+                     "Retail"
+                 ],
+        "featured":  true
+    },
+    {
+        "id":  11,
+        "folder":  "animation",
+        "name":  "RECAP 3 WITH SUB.mp4",
+        "file":  "assets/animation/RECAP 3 WITH SUB.mp4",
+        "sizeMB":  103.41,
+        "category":  "animation",
+        "aspect":  "16:9",
+        "client":  "Event \u0026 Corporate Recap",
+        "title_ar":  "ريكاب المؤتمرات والأحداث مع أنيميشن وترجمة ديناميكية",
+        "title_en":  "Event Recap with Kinetic Subtitles \u0026 2D Motion",
+        "desc_ar":  "تغطية ريكاب سينمائية متكاملة للأحداث تجمع بين الموسيقى التصويرية والنصوص المتحركة والرسوم التوضيحية.",
+        "desc_en":  "Grand event recap highlighting key milestones, kinetic motion subtitles, and rhythmic beat cutting.",
+        "tags":  [
+                     "Event Recap",
+                     "Kinetic Subtitles",
+                     "Motion Graphics",
+                     "Beat Sync"
+                 ],
+        "featured":  true
+    },
+    {
+        "id":  12,
+        "folder":  "Poudcast",
+        "name":  "Angie Nabil Part 2.mp4",
+        "file":  "assets/Poudcast/Angie Nabil Part 2.mp4",
+        "sizeMB":  77.25,
+        "category":  "podcast",
+        "aspect":  "9:16",
+        "client":  "Medical \u0026 Expert Podcast",
+        "title_ar":  "لقاء إنجي نبيل - مناقشات حصرية (Angie Nabil Part 2.mp4)",
+        "title_en":  "Engy Nabil Exclusive Talk (Angie Nabil Part 2.mp4)",
+        "desc_ar":  "مونتاج حواري سلس مع إبراز التعابير والانفعالات وتزامن رائع بين المقاطع الموسيقية والحوار.",
+        "desc_en":  "Smooth conversational edit accentuating expressions with subtle ambient musical beds.",
+        "tags":  [
+                     "Interview",
+                     "Audio Sync",
+                     "Podcast Cut"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  13,
+        "folder":  "Poudcast",
+        "name":  "dr abu halima.mp4",
+        "file":  "assets/Poudcast/dr abu halima.mp4",
+        "sizeMB":  39.85,
+        "category":  "podcast",
+        "aspect":  "9:16",
+        "client":  "Medical \u0026 Expert Podcast",
+        "title_ar":  "لقاء د. أبو حليمة - رؤى وخبرات طبية",
+        "title_en":  "Dr. Abu Halima - Clinical Insights",
+        "desc_ar":  "حلقة مركزة تقدم خلاصة خبرة طبية طويلة مع مونتاج نظيف ومرتب وألوان سينمائية.",
+        "desc_en":  "Concentrated clinical reel with clean visual rhythm and natural studio lighting grading.",
+        "tags":  [
+                     "Doctor Talk",
+                     "Color Grade",
+                     "Clean Audio"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  14,
+        "folder":  "Poudcast",
+        "name":  "Dr ahmed galal G cell.mp4",
+        "file":  "assets/Poudcast/Dr ahmed galal G cell.mp4",
+        "sizeMB":  51.38,
+        "category":  "podcast",
+        "aspect":  "9:16",
+        "client":  "Medical \u0026 Expert Podcast",
+        "title_ar":  "بودكاست د. أحمد جلال - تقنيات متطورة (Dr ahmed galal G cell.mp4)",
+        "title_en":  "Dr. Ahmed Galal - Advanced Protocols (Dr ahmed galal G cell.mp4)",
+        "desc_ar":  "عرض التقنيات الطبية المتقدمة برسومات توضيحية ومونتاج سريع ومباشر لا يضيع وقت المشاهد.",
+        "desc_en":  "Breaking down complex clinical protocols with clean motion captions and brisk pacing.",
+        "tags":  [
+                     "Clinical Expert",
+                     "Motion Graphics",
+                     "Reel Cut"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  15,
+        "folder":  "Poudcast",
+        "name":  "dr Ahmed Galal Rich PL.mp4",
+        "file":  "assets/Poudcast/dr Ahmed Galal Rich PL.mp4",
+        "sizeMB":  60.71,
+        "category":  "podcast",
+        "aspect":  "9:16",
+        "client":  "Medical \u0026 Expert Podcast",
+        "title_ar":  "بودكاست د. أحمد جلال - تقنيات متطورة (dr Ahmed Galal Rich PL.mp4)",
+        "title_en":  "Dr. Ahmed Galal - Advanced Protocols (dr Ahmed Galal Rich PL.mp4)",
+        "desc_ar":  "عرض التقنيات الطبية المتقدمة برسومات توضيحية ومونتاج سريع ومباشر لا يضيع وقت المشاهد.",
+        "desc_en":  "Breaking down complex clinical protocols with clean motion captions and brisk pacing.",
+        "tags":  [
+                     "Clinical Expert",
+                     "Motion Graphics",
+                     "Reel Cut"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  16,
+        "folder":  "Poudcast",
+        "name":  "dr Ahmed Mughazi.mp4",
+        "file":  "assets/Poudcast/dr Ahmed Mughazi.mp4",
+        "sizeMB":  60.22,
+        "category":  "podcast",
+        "aspect":  "9:16",
+        "client":  "Medical \u0026 Expert Podcast",
+        "title_ar":  "لقاء د. أحمد مغازي - نصائح واستشارات (dr Ahmed Mughazi.mp4)",
+        "title_en":  "Dr. Ahmed Mughazi Consultation Series (dr Ahmed Mughazi.mp4)",
+        "desc_ar":  "مونتاج ريلز طبي احترافي موجه للمتابعين مع نصوص واضحة وتكبير ديناميكي.",
+        "desc_en":  "Medical reel with high legibility subtitles, audio equalization, and dynamic punch-ins.",
+        "tags":  [
+                     "Medical Reel",
+                     "Audio EQ",
+                     "Punch-ins"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  17,
+        "folder":  "Poudcast",
+        "name":  "dr Marwan Al-Sawy.mp4",
+        "file":  "assets/Poudcast/dr Marwan Al-Sawy.mp4",
+        "sizeMB":  59.6,
+        "category":  "podcast",
+        "aspect":  "9:16",
+        "client":  "Medical \u0026 Expert Podcast",
+        "title_ar":  "حلقة د. مروان الصاوي - إجابات حاسمة",
+        "title_en":  "Dr. Marwan Al-Sawy - Definitive Answers",
+        "desc_ar":  "إجابة سريعة ومقنعة على تساؤلات المراجعين مع مونتاج ديناميكي يمنع التخطي.",
+        "desc_en":  "Direct, punchy Q\u0026A format edited to eliminate dead air and maximize watch time.",
+        "tags":  [
+                     "Q\u0026A Format",
+                     "Zero Dead Air",
+                     "Podcast Cut"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  18,
+        "folder":  "Poudcast",
+        "name":  "DR Muhammad Fathi.mp4",
+        "file":  "assets/Poudcast/DR Muhammad Fathi.mp4",
+        "sizeMB":  387.98,
+        "category":  "podcast",
+        "aspect":  "9:16",
+        "client":  "Medical \u0026 Expert Podcast",
+        "title_ar":  "بودكاست د. محمد فتحي - حوار علمي وتخصصي",
+        "title_en":  "Dr. Muhammad Fathi - Deep Clinical Dialogue",
+        "desc_ar":  "مونتاج مطول ومختصر في نفس الوقت يبرز أهم اللقطات الجدلية والمعلومات القيمة بأسلوب يجذب المشاهد.",
+        "desc_en":  "In-depth podcast reel extracting the most compelling insights with sharp audio and visual pacing.",
+        "tags":  [
+                     "In-Depth Talk",
+                     "Expert Podcast",
+                     "Highlight Reel"
+                 ],
+        "featured":  true
+    },
+    {
+        "id":  19,
+        "folder":  "Poudcast",
+        "name":  "dr shady part 1.mp4",
+        "file":  "assets/Poudcast/dr shady part 1.mp4",
+        "sizeMB":  43.42,
+        "category":  "podcast",
+        "aspect":  "9:16",
+        "client":  "Medical \u0026 Expert Podcast",
+        "title_ar":  "بودكاست د. شادي - الجزء الحواري (dr shady part 1.mp4)",
+        "title_en":  "Dr. Shady Podcast Series (dr shady part 1.mp4)",
+        "desc_ar":  "مونتاج متوازن للحوارات الطبية يجمع بين التثقيف والإمتاع البصري.",
+        "desc_en":  "Balanced conversational cut delivering both medical education and visual engagement.",
+        "tags":  [
+                     "Medical Education",
+                     "Interview",
+                     "Reels"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  20,
+        "folder":  "Poudcast",
+        "name":  "dr shady part 2.mp4",
+        "file":  "assets/Poudcast/dr shady part 2.mp4",
+        "sizeMB":  94.54,
+        "category":  "podcast",
+        "aspect":  "9:16",
+        "client":  "Medical \u0026 Expert Podcast",
+        "title_ar":  "بودكاست د. شادي - الجزء الحواري (dr shady part 2.mp4)",
+        "title_en":  "Dr. Shady Podcast Series (dr shady part 2.mp4)",
+        "desc_ar":  "مونتاج متوازن للحوارات الطبية يجمع بين التثقيف والإمتاع البصري.",
+        "desc_en":  "Balanced conversational cut delivering both medical education and visual engagement.",
+        "tags":  [
+                     "Medical Education",
+                     "Interview",
+                     "Reels"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  21,
+        "folder":  "Poudcast",
+        "name":  "DR. AYA.mp4",
+        "file":  "assets/Poudcast/DR. AYA.mp4",
+        "sizeMB":  319.56,
+        "category":  "podcast",
+        "aspect":  "9:16",
+        "client":  "Medical \u0026 Expert Podcast",
+        "title_ar":  "بودكاست د. آية - أسرار التجميل والعناية",
+        "title_en":  "Dr. Aya Podcast - Aesthetic Secrets",
+        "desc_ar":  "مونتاج بودكاست احترافي متعدد الكاميرات مع عزل الضوضاء، ومؤثرات توضيحية عند ذكر النقاط الجوهرية.",
+        "desc_en":  "Multi-cam podcast cut with studio audio treatment, b-roll punches, and retention hooks.",
+        "tags":  [
+                     "Multi-Cam",
+                     "Doctor Podcast",
+                     "Audio Cleanup",
+                     "B-Roll"
+                 ],
+        "featured":  true
+    },
+    {
+        "id":  22,
+        "folder":  "Poudcast",
+        "name":  "احمد الموغازي.mp4",
+        "file":  "assets/Poudcast/احمد الموغازي.mp4",
+        "sizeMB":  56.77,
+        "category":  "podcast",
+        "aspect":  "9:16",
+        "client":  "Medical \u0026 Expert Podcast",
+        "title_ar":  "لقاء د. أحمد مغازي - نصائح واستشارات (احمد الموغازي.mp4)",
+        "title_en":  "Dr. Ahmed Mughazi Consultation Series (احمد الموغازي.mp4)",
+        "desc_ar":  "مونتاج ريلز طبي احترافي موجه للمتابعين مع نصوص واضحة وتكبير ديناميكي.",
+        "desc_en":  "Medical reel with high legibility subtitles, audio equalization, and dynamic punch-ins.",
+        "tags":  [
+                     "Medical Reel",
+                     "Audio EQ",
+                     "Punch-ins"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  23,
+        "folder":  "Poudcast",
+        "name":  "انجي نبيل بدري.mp4",
+        "file":  "assets/Poudcast/انجي نبيل بدري.mp4",
+        "sizeMB":  202.53,
+        "category":  "podcast",
+        "aspect":  "9:16",
+        "client":  "Medical \u0026 Expert Podcast",
+        "title_ar":  "لقاء إنجي نبيل - مناقشات حصرية (انجي نبيل بدري.mp4)",
+        "title_en":  "Engy Nabil Exclusive Talk (انجي نبيل بدري.mp4)",
+        "desc_ar":  "مونتاج حواري سلس مع إبراز التعابير والانفعالات وتزامن رائع بين المقاطع الموسيقية والحوار.",
+        "desc_en":  "Smooth conversational edit accentuating expressions with subtle ambient musical beds.",
+        "tags":  [
+                     "Interview",
+                     "Audio Sync",
+                     "Podcast Cut"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  24,
+        "folder":  "rrs",
+        "name":  "Draft 1.mp4",
+        "file":  "assets/rrs/Draft 1.mp4",
+        "sizeMB":  163.83,
+        "category":  "medical",
+        "aspect":  "9:16",
+        "client":  "RRS Skin",
+        "title_ar":  "سلسلة RRS المتخصصة - Draft 1.mp4",
+        "title_en":  "RRS Aesthetic Series - Draft 1.mp4",
+        "desc_ar":  "حلقة مخصصة لعرض تقنيات RRS العلاجية ومميزاتها للأطباء والمراجعين.",
+        "desc_en":  "Targeted reel exploring clinical application and tangible results of RRS treatments.",
+        "tags":  [
+                     "Clinical Reel",
+                     "Aesthetics",
+                     "Sound Design"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  25,
+        "folder":  "rrs",
+        "name":  "Emirati Women\u0027s Day.mp4",
+        "file":  "assets/rrs/Emirati Women\u0027s Day.mp4",
+        "sizeMB":  286,
+        "category":  "medical",
+        "aspect":  "16:9",
+        "client":  "RRS UAE",
+        "title_ar":  "إعلان يوم المرأة الإماراتية - براند RRS",
+        "title_en":  "RRS Emirati Women\u0027s Day Special Campaign",
+        "desc_ar":  "إعلان رسمي بمناسبة يوم المرأة الإماراتية يجمع بين الفخامة والاعتزاز الوطني والتلوين الذهبي الفاخر.",
+        "desc_en":  "National day celebration commercial for RRS UAE combining cultural pride with luxury aesthetic visuals.",
+        "tags":  [
+                     "National Campaign",
+                     "UAE Women Day",
+                     "Luxury Tone",
+                     "Golden Grade"
+                 ],
+        "featured":  true
+    },
+    {
+        "id":  26,
+        "folder":  "rrs",
+        "name":  "RRS 3.mp4",
+        "file":  "assets/rrs/RRS 3.mp4",
+        "sizeMB":  100.26,
+        "category":  "medical",
+        "aspect":  "9:16",
+        "client":  "RRS Skin",
+        "title_ar":  "ريل ترويجي - منتجات RRS لنضارة الوجه",
+        "title_en":  "RRS Facial Rejuvenation Spotlight Reel",
+        "desc_ar":  "مونتاج ريلز عمودي يستعرض مكونات ونتائج حقن RRS مع نصوص متحركة وريتم سريع.",
+        "desc_en":  "Vertical reel displaying RRS mesotherapy benefits with kinetic typography and crisp sound.",
+        "tags":  [
+                     "Mesotherapy",
+                     "Aesthetic Reel",
+                     "Kinetic Subs"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  27,
+        "folder":  "rrs",
+        "name":  "RRS EP 2.mp4",
+        "file":  "assets/rrs/RRS EP 2.mp4",
+        "sizeMB":  182.21,
+        "category":  "medical",
+        "aspect":  "9:16",
+        "client":  "RRS Skin",
+        "title_ar":  "سلسلة RRS المتخصصة - RRS EP 2.mp4",
+        "title_en":  "RRS Aesthetic Series - RRS EP 2.mp4",
+        "desc_ar":  "حلقة مخصصة لعرض تقنيات RRS العلاجية ومميزاتها للأطباء والمراجعين.",
+        "desc_en":  "Targeted reel exploring clinical application and tangible results of RRS treatments.",
+        "tags":  [
+                     "Clinical Reel",
+                     "Aesthetics",
+                     "Sound Design"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  28,
+        "folder":  "sunekos",
+        "name":  "Ep 3.mp4",
+        "file":  "assets/sunekos/Ep 3.mp4",
+        "sizeMB":  1137.39,
+        "category":  "medical",
+        "aspect":  "9:16",
+        "client":  "Sunekos",
+        "title_ar":  "حملة سونيكوس لنضارة البشرة - Ep 3.mp4",
+        "title_en":  "Sunekos Aesthetic Campaign - Ep 3.mp4",
+        "desc_ar":  "حلقة من سلسلة سونيكوس الإعلانية تركز على تحفيز الكولاجين بأسلوب عصري وسينمائي.",
+        "desc_en":  "Episode from the Sunekos campaign focusing on natural skin rejuvenation and modern aesthetics.",
+        "tags":  [
+                     "Aesthetic Series",
+                     "Skin Rejuvenation",
+                     "Reels"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  29,
+        "folder":  "sunekos",
+        "name":  "Ep 4.mp4",
+        "file":  "assets/sunekos/Ep 4.mp4",
+        "sizeMB":  151.98,
+        "category":  "medical",
+        "aspect":  "9:16",
+        "client":  "Sunekos",
+        "title_ar":  "حملة سونيكوس لنضارة البشرة - Ep 4.mp4",
+        "title_en":  "Sunekos Aesthetic Campaign - Ep 4.mp4",
+        "desc_ar":  "حلقة من سلسلة سونيكوس الإعلانية تركز على تحفيز الكولاجين بأسلوب عصري وسينمائي.",
+        "desc_en":  "Episode from the Sunekos campaign focusing on natural skin rejuvenation and modern aesthetics.",
+        "tags":  [
+                     "Aesthetic Series",
+                     "Skin Rejuvenation",
+                     "Reels"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  30,
+        "folder":  "sunekos",
+        "name":  "EP 5.mp4",
+        "file":  "assets/sunekos/EP 5.mp4",
+        "sizeMB":  124.21,
+        "category":  "medical",
+        "aspect":  "9:16",
+        "client":  "Sunekos",
+        "title_ar":  "حملة سونيكوس لنضارة البشرة - EP 5.mp4",
+        "title_en":  "Sunekos Aesthetic Campaign - EP 5.mp4",
+        "desc_ar":  "حلقة من سلسلة سونيكوس الإعلانية تركز على تحفيز الكولاجين بأسلوب عصري وسينمائي.",
+        "desc_en":  "Episode from the Sunekos campaign focusing on natural skin rejuvenation and modern aesthetics.",
+        "tags":  [
+                     "Aesthetic Series",
+                     "Skin Rejuvenation",
+                     "Reels"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  31,
+        "folder":  "sunekos",
+        "name":  "EP 7.mp4",
+        "file":  "assets/sunekos/EP 7.mp4",
+        "sizeMB":  108.72,
+        "category":  "medical",
+        "aspect":  "9:16",
+        "client":  "Sunekos",
+        "title_ar":  "حملة سونيكوس لنضارة البشرة - EP 7.mp4",
+        "title_en":  "Sunekos Aesthetic Campaign - EP 7.mp4",
+        "desc_ar":  "حلقة من سلسلة سونيكوس الإعلانية تركز على تحفيز الكولاجين بأسلوب عصري وسينمائي.",
+        "desc_en":  "Episode from the Sunekos campaign focusing on natural skin rejuvenation and modern aesthetics.",
+        "tags":  [
+                     "Aesthetic Series",
+                     "Skin Rejuvenation",
+                     "Reels"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  32,
+        "folder":  "sunekos",
+        "name":  "EP09.mp4",
+        "file":  "assets/sunekos/EP09.mp4",
+        "sizeMB":  128.55,
+        "category":  "medical",
+        "aspect":  "9:16",
+        "client":  "Sunekos",
+        "title_ar":  "حملة سونيكوس لنضارة البشرة - EP09.mp4",
+        "title_en":  "Sunekos Aesthetic Campaign - EP09.mp4",
+        "desc_ar":  "حلقة من سلسلة سونيكوس الإعلانية تركز على تحفيز الكولاجين بأسلوب عصري وسينمائي.",
+        "desc_en":  "Episode from the Sunekos campaign focusing on natural skin rejuvenation and modern aesthetics.",
+        "tags":  [
+                     "Aesthetic Series",
+                     "Skin Rejuvenation",
+                     "Reels"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  33,
+        "folder":  "sunekos",
+        "name":  "episode 6 DR AMR.mp4",
+        "file":  "assets/sunekos/episode 6 DR AMR.mp4",
+        "sizeMB":  147.18,
+        "category":  "medical",
+        "aspect":  "9:16",
+        "client":  "Sunekos",
+        "title_ar":  "سونيكوس حلقة 6 - استشارة د. عمرو",
+        "title_en":  "Sunekos Ep 06 - Dr. Amr Consultation",
+        "desc_ar":  "لقاء طبي متخصص يشرح فوائد سونيكوس مع عزل احترافي للصوت وإدراج نصوص توضيحية طبية.",
+        "desc_en":  "Expert doctor interview breaking down scientific benefits with crisp audio mastering and medical graphics.",
+        "tags":  [
+                     "Doctor Talk",
+                     "Medical Graphics",
+                     "Audio Clean"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  34,
+        "folder":  "sunekos",
+        "name":  "Epsode 01.mp4",
+        "file":  "assets/sunekos/Epsode 01.mp4",
+        "sizeMB":  153.71,
+        "category":  "medical",
+        "aspect":  "9:16",
+        "client":  "Sunekos",
+        "title_ar":  "حملة سونيكوس لنضارة البشرة - Epsode 01.mp4",
+        "title_en":  "Sunekos Aesthetic Campaign - Epsode 01.mp4",
+        "desc_ar":  "حلقة من سلسلة سونيكوس الإعلانية تركز على تحفيز الكولاجين بأسلوب عصري وسينمائي.",
+        "desc_en":  "Episode from the Sunekos campaign focusing on natural skin rejuvenation and modern aesthetics.",
+        "tags":  [
+                     "Aesthetic Series",
+                     "Skin Rejuvenation",
+                     "Reels"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  35,
+        "folder":  "sunekos",
+        "name":  "Pre Final.mp4",
+        "file":  "assets/sunekos/Pre Final.mp4",
+        "sizeMB":  1038.32,
+        "category":  "medical",
+        "aspect":  "16:9",
+        "client":  "Sunekos",
+        "title_ar":  "فيلم براند سونيكوس الرئيسي - Sunekos Master Film",
+        "title_en":  "Sunekos Master Brand Film",
+        "desc_ar":  "الفيلم الرئيسي لحملة سونيكوس الإيطالية للنضارة والتجديد مع تلوين استثنائي وإخراج بصري فاخر.",
+        "desc_en":  "The flagship campaign film for Sunekos aesthetics featuring world-class color and elegant pacing.",
+        "tags":  [
+                     "Master Film",
+                     "Italian Brand",
+                     "Luxury Aesthetics",
+                     "Color Master"
+                 ],
+        "featured":  true
+    },
+    {
+        "id":  36,
+        "folder":  "حلقات PRIMELASE",
+        "name":  "Describe primelase in one word2.mp4",
+        "file":  "assets/حلقات PRIMELASE/Describe primelase in one word2.mp4",
+        "sizeMB":  70.88,
+        "category":  "medical",
+        "aspect":  "9:16",
+        "client":  "Primelase Clinic",
+        "title_ar":  "برايم ليز - في كلمة واحدة (Describe in One Word)",
+        "title_en":  "Primelase - \u0027Describe in One Word\u0027 Hook Reel",
+        "desc_ar":  "ريل سريع وتفاعلي يطرح سؤالاً مباشراً على الأطباء والعملاء مع مونتاج خفيف وظريف يثبت في الذاكرة.",
+        "desc_en":  "Fast interactive hook reel questioning doctors and clients, edited with playful rhythm and sharp timing.",
+        "tags":  [
+                     "Viral Hook",
+                     "Medical Aesthetics",
+                     "Reels",
+                     "Clinic Promo"
+                 ],
+        "featured":  true
+    },
+    {
+        "id":  37,
+        "folder":  "حلقات PRIMELASE",
+        "name":  "EP 07 - Minimal Pain.mp4",
+        "file":  "assets/حلقات PRIMELASE/EP 07 - Minimal Pain.mp4",
+        "sizeMB":  25.58,
+        "category":  "medical",
+        "aspect":  "9:16",
+        "client":  "Primelase Clinic",
+        "title_ar":  "سلسلة برايم ليز - جلسة بدون ألم (EP 07 - Minimal Pain.mp4)",
+        "title_en":  "Primelase Series - Painless Experience (EP 07 - Minimal Pain.mp4)",
+        "desc_ar":  "تسليط الضوء على ميزة انعدام الألم في جهاز برايم ليز لكسر مخاوف العملاء مع تلوين سينمائي نقي.",
+        "desc_en":  "Tackling client anxiety with clinical reassurance, sleek color grading, and crisp sound clarity.",
+        "tags":  [
+                     "Laser Clinic",
+                     "Medical Video",
+                     "Sound Design"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  38,
+        "folder":  "حلقات PRIMELASE",
+        "name":  "EP 08 - Minimal Pain.mp4",
+        "file":  "assets/حلقات PRIMELASE/EP 08 - Minimal Pain.mp4",
+        "sizeMB":  36.83,
+        "category":  "medical",
+        "aspect":  "9:16",
+        "client":  "Primelase Clinic",
+        "title_ar":  "سلسلة برايم ليز - جلسة بدون ألم (EP 08 - Minimal Pain.mp4)",
+        "title_en":  "Primelase Series - Painless Experience (EP 08 - Minimal Pain.mp4)",
+        "desc_ar":  "تسليط الضوء على ميزة انعدام الألم في جهاز برايم ليز لكسر مخاوف العملاء مع تلوين سينمائي نقي.",
+        "desc_en":  "Tackling client anxiety with clinical reassurance, sleek color grading, and crisp sound clarity.",
+        "tags":  [
+                     "Laser Clinic",
+                     "Medical Video",
+                     "Sound Design"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  39,
+        "folder":  "حلقات PRIMELASE",
+        "name":  "Ep. 03 - Strawberry Skin.mp4",
+        "file":  "assets/حلقات PRIMELASE/Ep. 03 - Strawberry Skin.mp4",
+        "sizeMB":  31.17,
+        "category":  "medical",
+        "aspect":  "9:16",
+        "client":  "Primelase Clinic",
+        "title_ar":  "برايم ليز - حل مشكلة جلد الوزة (Strawberry Skin)",
+        "title_en":  "Primelase - Solving Strawberry Skin Problem",
+        "desc_ar":  "معالجة مشكلة طبية شائعة بأرقام وحلول واضحة مع إبراز النتائج بطريقة احترافية تشجع على الحجز.",
+        "desc_en":  "Addressing a widely searched aesthetic problem with clear visual proof and strong conversion appeal.",
+        "tags":  [
+                     "Problem-Solution",
+                     "Medical Reel",
+                     "High Conversion"
+                 ],
+        "featured":  true
+    },
+    {
+        "id":  40,
+        "folder":  "حلقات PRIMELASE",
+        "name":  "Primelase is fast 2.mp4",
+        "file":  "assets/حلقات PRIMELASE/Primelase is fast 2.mp4",
+        "sizeMB":  21.16,
+        "category":  "medical",
+        "aspect":  "9:16",
+        "client":  "Primelase Clinic",
+        "title_ar":  "برايم ليز - ميزة السرعة والفعالية",
+        "title_en":  "Primelase - Ultra Fast Treatment Reel",
+        "desc_ar":  "فيديو ريلز يعرض سرعة جلسة الليزر مع إيقاع سريع يواكب ميزة الجهاز الفريدة.",
+        "desc_en":  "Fast-paced reel highlighting the speed and efficiency of the Primelase treatment.",
+        "tags":  [
+                     "Speed Ramp",
+                     "Medical Aesthetics",
+                     "Short Form"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  41,
+        "folder":  "هايدي",
+        "name":  "EP 1 FOR SUB.mp4",
+        "file":  "assets/هايدي/EP 1 FOR SUB.mp4",
+        "sizeMB":  192.74,
+        "category":  "ugc",
+        "aspect":  "9:16",
+        "client":  "Haidi / UGC Creator",
+        "title_ar":  "سلسلة UGC - الحلقة الأولى (مع ترجمة ديناميكية)",
+        "title_en":  "UGC Series - Episode 01 (Dynamic Subs)",
+        "desc_ar":  "حلقة UGC تركز على تجربة المنتج الواقعية مع نصوص ملونة تفاعلية وزووم ديناميكي مستمر لمنع التخطي.",
+        "desc_en":  "Authentic UGC product experience reel with colorful animated captions and dynamic zoom cuts.",
+        "tags":  [
+                     "UGC Ad",
+                     "Dynamic Subtitles",
+                     "Zoom Cuts",
+                     "Reels"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  42,
+        "folder":  "هايدي",
+        "name":  "EP 11.mp4",
+        "file":  "assets/هايدي/EP 11.mp4",
+        "sizeMB":  199.26,
+        "category":  "ugc",
+        "aspect":  "9:16",
+        "client":  "Haidi / UGC Creator",
+        "title_ar":  "محتوى UGC ستوريتيلينج - الحلقة 11",
+        "title_en":  "Storytelling UGC Reel - Episode 11",
+        "desc_ar":  "سرد قصصي جذاب يربط المشاهد بالمحتوى من الثانية الأولى مع تلوين ناعم ومريح للعين.",
+        "desc_en":  "Engaging narrative reel hooking viewers from second zero with natural, pleasing skin tones.",
+        "tags":  [
+                     "Storytelling",
+                     "Color Correction",
+                     "Engagement"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  43,
+        "folder":  "هايدي",
+        "name":  "Ep 12.mp4",
+        "file":  "assets/هايدي/Ep 12.mp4",
+        "sizeMB":  200.95,
+        "category":  "ugc",
+        "aspect":  "9:16",
+        "client":  "Haidi / UGC Creator",
+        "title_ar":  "فيديو UGC إعلاني - الحلقة 12",
+        "title_en":  "Direct-Response UGC - Episode 12",
+        "desc_ar":  "إعلان مباشر موجه لإعلانات تيك توك وإنستجرام بأسلوب عصري يجذب الفئات الشابة.",
+        "desc_en":  "Direct response creative built for TikTok \u0026 Meta ads targeting high-intent demographics.",
+        "tags":  [
+                     "Direct Response",
+                     "Meta Ads",
+                     "TikTok Ads"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  44,
+        "folder":  "هايدي",
+        "name":  "EP 2 FOR SUB.mp4",
+        "file":  "assets/هايدي/EP 2 FOR SUB.mp4",
+        "sizeMB":  154.97,
+        "category":  "ugc",
+        "aspect":  "9:16",
+        "client":  "Haidi / UGC Creator",
+        "title_ar":  "سلسلة UGC - الحلقة الثانية (شرح وتفاعل)",
+        "title_en":  "UGC Series - Episode 02 (Engagement Hook)",
+        "desc_ar":  "مونتاج سريع يدمج بين السرد الواقعي ومقاطع B-roll التوضيحية لرفع نسبة الإكمال والمشاهدة.",
+        "desc_en":  "Fast-paced UGC edit combining real talk with illustrative B-roll to maximize completion rate.",
+        "tags":  [
+                     "UGC Content",
+                     "B-Roll Cut",
+                     "Retention Strategy"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  45,
+        "folder":  "هايدي",
+        "name":  "EP 3.mp4",
+        "file":  "assets/هايدي/EP 3.mp4",
+        "sizeMB":  109.52,
+        "category":  "ugc",
+        "aspect":  "9:16",
+        "client":  "Haidi / UGC Creator",
+        "title_ar":  "ريل UGC تفاعلي - الحلقة 03",
+        "title_en":  "Interactive UGC Reel - Episode 03",
+        "desc_ar":  "تصميم ومونتاج فيديو ريلز موجه لسوشيال ميديا مع مؤثرات صوتية تضفي حيوية على كل حركة.",
+        "desc_en":  "High-energy social reel edit featuring custom sound effects syncing with every visual gesture.",
+        "tags":  [
+                     "Sound FX",
+                     "Reels",
+                     "Social Media",
+                     "UGC"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  46,
+        "folder":  "هايدي",
+        "name":  "Ep 7.mp4",
+        "file":  "assets/هايدي/Ep 7.mp4",
+        "sizeMB":  166.44,
+        "category":  "ugc",
+        "aspect":  "9:16",
+        "client":  "Haidi / UGC Creator",
+        "title_ar":  "ريل UGC تسويقي - الحلقة 07",
+        "title_en":  "High-Conversion UGC - Episode 07",
+        "desc_ar":  "فيديو يركز على معالجة اعتراضات العميل والـ Call To Action النهائي بأسلوب سلس ومقنع.",
+        "desc_en":  "Focusing on customer pain points, value proposition, and a frictionless Call to Action.",
+        "tags":  [
+                     "Conversion Ad",
+                     "UGC Campaign",
+                     "Call To Action"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  47,
+        "folder":  "هايدي",
+        "name":  "Ep.mp4",
+        "file":  "assets/هايدي/Ep.mp4",
+        "sizeMB":  187.61,
+        "category":  "ugc",
+        "aspect":  "9:16",
+        "client":  "Haidi / UGC Creator",
+        "title_ar":  "فيديو UGC ترويجي متميز",
+        "title_en":  "Signature UGC Promo Spot",
+        "desc_ar":  "مونتاج ريلز UGC مع إيقاع سريع ونصوص حركية تزيد من متوسط وقت المشاهدة.",
+        "desc_en":  "UGC promo reel with dynamic pacing and kinetic text designed to spike watch time.",
+        "tags":  [
+                     "Short Form",
+                     "Retention",
+                     "UGC"
+                 ],
+        "featured":  false
+    },
+    {
+        "id":  48,
+        "folder":  "هايدي",
+        "name":  "monkeyrtising 2.mp4",
+        "file":  "assets/هايدي/monkeyrtising 2.mp4",
+        "sizeMB":  304.87,
+        "category":  "ugc",
+        "aspect":  "9:16",
+        "client":  "Monkeyrtising",
+        "title_ar":  "حملة وكالة Monkeyrtising - إعلان UGC إبداعي",
+        "title_en":  "Monkeyrtising Agency - Viral UGC Ad",
+        "desc_ar":  "فيديو إعلاني إبداعي لصالح وكالة Monkeyrtising مع هوك فوري ونصوص حركية وتعديل سريع يجذب الانتباه.",
+        "desc_en":  "Viral creative UGC ad for Monkeyrtising agency with an instant hook, kinetic text, and retention pacing.",
+        "tags":  [
+                     "Viral Hook",
+                     "UGC Creative",
+                     "TikTok Ads",
+                     "Kinetic Text"
+                 ],
+        "featured":  true
+    }
+]
